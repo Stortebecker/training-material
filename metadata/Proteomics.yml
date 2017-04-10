@@ -14,7 +14,7 @@ material:
 -
     title: "Protein FASTA Database Handling"
     type: "tutorial"
-    name: "database-handling"
+    name: "tutorials"
     zenodo_link: 
     galaxy_tour: 
     hands_on: "yes"
